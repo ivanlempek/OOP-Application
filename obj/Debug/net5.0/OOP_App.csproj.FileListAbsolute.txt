@@ -1,0 +1,32 @@
+C:\projects\personal\dotNet\Orientação_a_Objetos-Balta\OOP_App\bin\Debug\net5.0\OOP_App.exe
+C:\projects\personal\dotNet\Orientação_a_Objetos-Balta\OOP_App\bin\Debug\net5.0\OOP_App.deps.json
+C:\projects\personal\dotNet\Orientação_a_Objetos-Balta\OOP_App\bin\Debug\net5.0\OOP_App.runtimeconfig.json
+C:\projects\personal\dotNet\Orientação_a_Objetos-Balta\OOP_App\bin\Debug\net5.0\OOP_App.runtimeconfig.dev.json
+C:\projects\personal\dotNet\Orientação_a_Objetos-Balta\OOP_App\bin\Debug\net5.0\OOP_App.dll
+C:\projects\personal\dotNet\Orientação_a_Objetos-Balta\OOP_App\bin\Debug\net5.0\OOP_App.pdb
+C:\projects\personal\dotNet\Orientação_a_Objetos-Balta\OOP_App\obj\Debug\net5.0\OOP_App.csproj.AssemblyReference.cache
+C:\projects\personal\dotNet\Orientação_a_Objetos-Balta\OOP_App\obj\Debug\net5.0\OOP_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\personal\dotNet\Orientação_a_Objetos-Balta\OOP_App\obj\Debug\net5.0\OOP_App.AssemblyInfoInputs.cache
+C:\projects\personal\dotNet\Orientação_a_Objetos-Balta\OOP_App\obj\Debug\net5.0\OOP_App.AssemblyInfo.cs
+C:\projects\personal\dotNet\Orientação_a_Objetos-Balta\OOP_App\obj\Debug\net5.0\OOP_App.csproj.CoreCompileInputs.cache
+C:\projects\personal\dotNet\Orientação_a_Objetos-Balta\OOP_App\obj\Debug\net5.0\OOP_App.dll
+C:\projects\personal\dotNet\Orientação_a_Objetos-Balta\OOP_App\obj\Debug\net5.0\refint\OOP_App.dll
+C:\projects\personal\dotNet\Orientação_a_Objetos-Balta\OOP_App\obj\Debug\net5.0\OOP_App.pdb
+C:\projects\personal\dotNet\Orientação_a_Objetos-Balta\OOP_App\obj\Debug\net5.0\OOP_App.genruntimeconfig.cache
+C:\projects\personal\dotNet\Orientação_a_Objetos-Balta\OOP_App\obj\Debug\net5.0\ref\OOP_App.dll
+C:\projects\personal\dotNet\Orientação_a_Objetos-Balta\OOP_App - Git\bin\Debug\net5.0\OOP_App.exe
+C:\projects\personal\dotNet\Orientação_a_Objetos-Balta\OOP_App - Git\bin\Debug\net5.0\OOP_App.deps.json
+C:\projects\personal\dotNet\Orientação_a_Objetos-Balta\OOP_App - Git\bin\Debug\net5.0\OOP_App.runtimeconfig.json
+C:\projects\personal\dotNet\Orientação_a_Objetos-Balta\OOP_App - Git\bin\Debug\net5.0\OOP_App.runtimeconfig.dev.json
+C:\projects\personal\dotNet\Orientação_a_Objetos-Balta\OOP_App - Git\bin\Debug\net5.0\OOP_App.dll
+C:\projects\personal\dotNet\Orientação_a_Objetos-Balta\OOP_App - Git\bin\Debug\net5.0\OOP_App.pdb
+C:\projects\personal\dotNet\Orientação_a_Objetos-Balta\OOP_App - Git\obj\Debug\net5.0\OOP_App.csproj.AssemblyReference.cache
+C:\projects\personal\dotNet\Orientação_a_Objetos-Balta\OOP_App - Git\obj\Debug\net5.0\OOP_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\personal\dotNet\Orientação_a_Objetos-Balta\OOP_App - Git\obj\Debug\net5.0\OOP_App.AssemblyInfoInputs.cache
+C:\projects\personal\dotNet\Orientação_a_Objetos-Balta\OOP_App - Git\obj\Debug\net5.0\OOP_App.AssemblyInfo.cs
+C:\projects\personal\dotNet\Orientação_a_Objetos-Balta\OOP_App - Git\obj\Debug\net5.0\OOP_App.csproj.CoreCompileInputs.cache
+C:\projects\personal\dotNet\Orientação_a_Objetos-Balta\OOP_App - Git\obj\Debug\net5.0\OOP_App.dll
+C:\projects\personal\dotNet\Orientação_a_Objetos-Balta\OOP_App - Git\obj\Debug\net5.0\refint\OOP_App.dll
+C:\projects\personal\dotNet\Orientação_a_Objetos-Balta\OOP_App - Git\obj\Debug\net5.0\OOP_App.pdb
+C:\projects\personal\dotNet\Orientação_a_Objetos-Balta\OOP_App - Git\obj\Debug\net5.0\OOP_App.genruntimeconfig.cache
+C:\projects\personal\dotNet\Orientação_a_Objetos-Balta\OOP_App - Git\obj\Debug\net5.0\ref\OOP_App.dll
